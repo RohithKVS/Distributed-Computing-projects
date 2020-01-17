@@ -1,0 +1,10 @@
+ID: 90 Leader: 90
+ID: 40 Leader: 90
+ID: 70 Leader: 90
+ID: 80 Leader: 90
+ID: 30 Leader: 90
+ID: 20 Leader: 90
+ID: 50 Leader: 90
+ID: 10 Leader: 90
+ID: 60 Leader: 90
+Flood Max algorithm completed. The total number of messages is: 108
