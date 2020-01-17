@@ -1,6 +1,0 @@
-ID: 14 Leader: 3
-ID: 3 Leader: 3
-ID: 6 Leader: 3
-ID: 4 Leader: 3
-ID: 7 Leader: 3
-ID: 8 Leader: 3
