@@ -1,0 +1,1 @@
+Implementation of Asynchronous Flood max algorithm for leader election in synchronous network using synchronizer.

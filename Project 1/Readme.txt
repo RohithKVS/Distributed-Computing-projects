@@ -1,0 +1,1 @@
+Implementation of variable speeds algorithm for leader election using synchronous networks
